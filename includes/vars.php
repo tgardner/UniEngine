@@ -30,6 +30,7 @@ if(defined('INSIDE'))
         118 => 0.3,
     );
 
+    /*
     $_Vars_PremiumBuildings = array
     (
         50    => 1,
@@ -38,14 +39,16 @@ if(defined('INSIDE'))
     (
         50    => 20,
     );
+    */
 
     $_Vars_IndestructibleBuildings = array
     (
-        50    => 1,
+        //50    => 1,
         33    => 1,
         41    => 1,
     );
 
+    /*
     $_Vars_MaxElementLevel = array
     (
         50    => 1,
@@ -55,6 +58,7 @@ if(defined('INSIDE'))
     (
         50    => 3600000,
     );
+    */
 
     $_Vars_ProAccountData = array
     (

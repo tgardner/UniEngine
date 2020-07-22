@@ -20,7 +20,7 @@ if(defined('INSIDE'))
         (
             120 => 12
         ),
-        216 => array
+    /*    216 => array
         (
             120 => 12,
             122 => 12
@@ -44,7 +44,7 @@ if(defined('INSIDE'))
         224 => array
         (
             126 => 2
-        ),
+        ),*/
         402 => array
         (
             120 => 3

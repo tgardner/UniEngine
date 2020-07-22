@@ -550,7 +550,7 @@ if(defined('INSIDE'))
                 408 => 1
             )
         ),
-        216 => array
+    /*    216 => array
         (
             'shield' => 60000,
             'attack' => 100000,
@@ -588,7 +588,7 @@ if(defined('INSIDE'))
                 407 => 0,
                 408 => 0
             )
-        ),
+        ),*/
         217 => array
         (
             'shield' => 40,
@@ -628,7 +628,7 @@ if(defined('INSIDE'))
                 408 => 1
             )
         ),
-        218 => array
+    /*    218 => array
         (
             'shield' => 70000,
             'attack' => 400000,
@@ -900,7 +900,7 @@ if(defined('INSIDE'))
                 407 => 1,
                 408 => 1
             )
-        ),
+        ),*/
         401 => array
         (
             'shield' => 20,
