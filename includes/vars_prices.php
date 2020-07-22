@@ -463,6 +463,20 @@ if(defined('INSIDE'))
                     'minlevel' => 0,
                     'speed' => 2000,
                     'consumption' => 300
+                ),
+                array
+                (
+                    'tech' => 117,
+                    'minlevel' => 18,
+                    'speed' => 4000,
+                    'consumption' => 600
+                ),
+                array
+                (
+                    'tech' => 118,
+                    'minlevel' => 15,
+                    'speed' => 6000,
+                    'consumption' => 900
                 )
             ),
             'weapons' => array(1),
