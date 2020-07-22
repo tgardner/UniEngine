@@ -457,12 +457,13 @@ if(defined('INSIDE'))
             'factor' => 1,
             'engine' => array
             (
+                
                 array
                 (
-                    'tech' => 115,
-                    'minlevel' => 0,
-                    'speed' => 2000,
-                    'consumption' => 300
+                    'tech' => 118,
+                    'minlevel' => 15,
+                    'speed' => 6000,
+                    'consumption' => 900
                 ),
                 array
                 (
@@ -470,13 +471,12 @@ if(defined('INSIDE'))
                     'minlevel' => 18,
                     'speed' => 4000,
                     'consumption' => 600
-                ),
-                array
+                ),array
                 (
-                    'tech' => 118,
-                    'minlevel' => 15,
-                    'speed' => 6000,
-                    'consumption' => 900
+                    'tech' => 115,
+                    'minlevel' => 0,
+                    'speed' => 2000,
+                    'consumption' => 300
                 )
             ),
             'weapons' => array(1),
