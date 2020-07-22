@@ -457,12 +457,13 @@ if(defined('INSIDE'))
             'factor' => 1,
             'engine' => array
             (
+                
                 array
                 (
-                    'tech' => 115,
-                    'minlevel' => 0,
-                    'speed' => 2000,
-                    'consumption' => 300
+                    'tech' => 118,
+                    'minlevel' => 15,
+                    'speed' => 6000,
+                    'consumption' => 900
                 ),
                 array
                 (
@@ -470,13 +471,12 @@ if(defined('INSIDE'))
                     'minlevel' => 18,
                     'speed' => 4000,
                     'consumption' => 600
-                ),
-                array
+                ),array
                 (
-                    'tech' => 118,
-                    'minlevel' => 15,
-                    'speed' => 6000,
-                    'consumption' => 900
+                    'tech' => 115,
+                    'minlevel' => 0,
+                    'speed' => 2000,
+                    'consumption' => 300
                 )
             ),
             'weapons' => array(1),
@@ -599,7 +599,7 @@ if(defined('INSIDE'))
             'weapons' => array(120),
             'capacity' => 750
         ),
-        216 => array
+    /*    216 => array
         (
             'metal' => 2500000,
             'crystal' => 3500000,
@@ -608,7 +608,7 @@ if(defined('INSIDE'))
             'factor' => 1,
             'weapons' => array(120, 122),
             'capacity' => 0
-        ),
+        ), */
         217 => array
         (
             'metal' => 25000,
@@ -629,7 +629,7 @@ if(defined('INSIDE'))
             'weapons' => array(1),
             'capacity' => 125000
         ),
-        218 => array
+    /*    218 => array
         (
             'metal' => 6000000,
             'crystal' => 3500000,
@@ -766,7 +766,7 @@ if(defined('INSIDE'))
             ),
             'weapons' => array(126),
             'capacity' => 14000
-        ),
+        ),*/
 
         401 => array
         (

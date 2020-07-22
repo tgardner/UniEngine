@@ -4,6 +4,8 @@ if(defined('INSIDE'))
 {
     $_Vars_CombatUpgrades = array
     (
+        //Disable techs giving +% efficiency on ships & def
+        /*
         206 => array
         (
             121 => 2
@@ -20,7 +22,10 @@ if(defined('INSIDE'))
         (
             120 => 12
         ),
-        216 => array
+    */
+    
+    //disable fancy ships
+    /*    216 => array
         (
             120 => 12,
             122 => 12
@@ -44,7 +49,10 @@ if(defined('INSIDE'))
         224 => array
         (
             126 => 2
-        ),
+        ),*/
+
+    //Disable techs giving +% efficiency on ships & def
+    /*
         402 => array
         (
             120 => 3
@@ -61,6 +69,7 @@ if(defined('INSIDE'))
         (
             122 => 7
         ),
+    */
     );
 }
 

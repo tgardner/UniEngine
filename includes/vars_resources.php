@@ -23,7 +23,7 @@ if(defined('INSIDE'))
         42    => 'sensor_phalanx',
         43    => 'jumpgate',
         44    => 'missile_silo',
-        50    => 'quantumgate',
+    //    50    => 'quantumgate',
 
         // Technology
         106 => 'tech_espionage',
@@ -41,8 +41,8 @@ if(defined('INSIDE'))
         122 => 'tech_plasma',
         123 => 'tech_interresearchnetwork',
         124 => 'tech_expedition',
-        125 => 'tech_antimatter',
-        126 => 'tech_disintegration',
+    //    125 => 'tech_antimatter',
+    //    126 => 'tech_disintegration',
         199 => 'tech_graviton',
 
         // Ships
@@ -60,15 +60,15 @@ if(defined('INSIDE'))
         213 => 'destroyer',
         214 => 'deathstar',
         215 => 'battlecruiser',
-        216 => 'orbital_station',
+    //    216 => 'orbital_station',
         217 => 'mega_cargo_ship',
-        218 => 'annihilator',
-        219 => 'space_shuttle',
-        220 => 'space_carrier',
-        221 => 'hadron_bomber',
-        222 => 'plasmic_ship',
-        223 => 'proton_destroyer',
-        224 => 'disintegrating_ship',
+    //    218 => 'annihilator',
+    //    219 => 'space_shuttle',
+    //    220 => 'space_carrier',
+    //    221 => 'hadron_bomber',
+    //    222 => 'plasmic_ship',
+    //    223 => 'proton_destroyer',
+    //    224 => 'disintegrating_ship',
 
         // Defence Systems
         401 => 'rocket_launcher',
