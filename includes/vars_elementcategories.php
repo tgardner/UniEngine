@@ -4,7 +4,7 @@ if(defined('INSIDE'))
 {
     $_Vars_ElementCategories['build']                   = array(1, 2, 3, 4, 12, 14, 15, 21, 22, 23, 24, 31, 33, 34, 44, 41, 42, 43); // 50
     $_Vars_ElementCategories['tech']                    = array(106, 108, 109, 110, 111, 113, 114, 115,118,117, 120, 121, 122, 123, 124, 199); // 125, 126
-    $_Vars_ElementCategories['fleet']                   = array(202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215 217); // 216, 218, 219, 220, 221, 222, 223, 224);
+    $_Vars_ElementCategories['fleet']                   = array(202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 217); // 216, 218, 219, 220, 221, 222, 223, 224);
     $_Vars_ElementCategories['defense']                 = array(401, 402, 403, 404, 405, 406, 407, 408, 502, 503);
     $_Vars_ElementCategories['rockets']                 = array(502, 503);
     $_Vars_ElementCategories['prod']                    = array(1, 2, 3, 4, 12, 212);
@@ -16,7 +16,7 @@ if(defined('INSIDE'))
     $_Vars_ElementCategories['buildOn'][3]              = array(14, 21, 22, 23, 24, 34, 41, 42, 43);
 
     $_Vars_ElementCategories['techPurpose'] = [
-        'combat' => [ 109, 110, 111, 120, 121, 122, 199, ], // 125, 126
+        'combat' => [ 109, 110, 111, 120, 121, 122, 199 ], // 125, 126
     ];
 }
 
