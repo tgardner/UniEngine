@@ -227,7 +227,7 @@ if(defined('INSIDE'))
             110 => 10,
             122 => 12,
             108 => 10
-        ),*/
+        ),
         217 => array
         (
             21    => 8,
@@ -287,7 +287,7 @@ if(defined('INSIDE'))
             110 => 20,
             113 => 22,
             126 => 2
-        ),*/
+        ),
 
         // Defence Systems
         401 => array
