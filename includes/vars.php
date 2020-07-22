@@ -43,7 +43,7 @@ if(defined('INSIDE'))
 
     $_Vars_IndestructibleBuildings = array
     (
-        //50    => 1,
+        50    => 1,
         33    => 1,
         41    => 1,
     );
